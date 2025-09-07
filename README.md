@@ -1,7 +1,7 @@
 ![photo_2025-09-06_23-07-20](https://github.com/user-attachments/assets/83f8d784-5489-49a1-a01b-e49e9cb5dfc1)
 <div style="display:flex;align-items:center;height:100%;">欢迎使用EONO-欧诺！<br>
 我们立志于提供多国家的高速节点，如我们的服务没有您所需要的，可与我们取得联系！<br><br>
-官网: https://www.eono.cc/
+官网: https://www.eono.cc/<br>
 我们的节点暂时覆盖以下地区：<br>
 美国、香港、台湾、新加坡、韩国、日本、德国，后续会根据客户的需求逐渐增加！<br>
 我们的套餐价格：<br>
