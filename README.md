@@ -15,3 +15,6 @@
 <img width="2702" height="1104" alt="MiaoKo-    cc-4248-speedtest" src="https://github.com/user-attachments/assets/3e3a1204-794f-41b0-bda3-246e8b8524d8" />
 <br>我们的群组：@enoncc<br>
 通知群组：@eonotz
+
+EONO
+欧诺
